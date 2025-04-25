@@ -1,7 +1,7 @@
 🗺️ Mapa de Processos – Parametrização & Testes
 
 📅 **Período:** 28/04 a 15/06  
-🎯 **Objetivo:** Consolidar testes e parametrizações nos ambientes **DataEnv** e **VoeClou**, iniciar a **captura de documentos via Sieg Hub** e avaliar o **Sieg Iris** para possível contratação.
+🎯 **Objetivo:** Consolidar testes e parametrizações nos ambientes **DataEnv** e **VoeCloud**, iniciar a **captura de documentos via Sieg Hub** e avaliar o **Sieg Iris** para possível contratação.
 
 ---
 
@@ -14,7 +14,7 @@
 |----|------------------------|--------------------------------------------------------|------------|------------------|----------------|
 | ⬜ | Parametrização inicial | Ajustes para integração com Sieg Hub (NFC-e, CDC)     | Sieg Hub   | 28/04 a 30/04   | 🟡 Em andamento |
 | ⬜ | Teste ambiente DataEnv | Testes de estabilidade e integração                    | DataEnv    | 28/04 a 05/05   | 🔲 A iniciar    |
-| ⬜ | Teste ambiente VoeClou | Testes de estabilidade e integração                    | VoeClou    | 28/04 a 05/05   | 🔲 A iniciar    |
+| ⬜ | Teste ambiente VoeCloud | Testes de estabilidade e integração                    | VoeCloud    | 28/04 a 05/05   | 🔲 A iniciar    |
 | ⬜ | Testes Sieg Iris       | Avaliação para possível contratação                   | Sieg Iris  | 28/04 a 28/06   | 🔲 A iniciar    |
 
 ---
