@@ -79,7 +79,7 @@
 ## ⚙️ Próximas Etapas
 
 📌 **Após a conclusão da parametrização de saídas, deve-se iniciar as rotinas automáticas de importação entre os sistemas Sieg e Domínio.**  
-➡️ **Responsável por validar e agendar início:** _Preencher_
+➡️ **Responsável por validar e agendar início:**Jhennifer
 
 ---
 
