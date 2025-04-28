@@ -50,7 +50,7 @@
 
 | ✅ | Atividade            | Descrição                                 | Responsável       | Status      |
 |----|----------------------|-------------------------------------------|-------------------|-------------|
-| ⬜ | Implantação          | Configuração inicial do Sieg Iris         | Sieg              | 🔲 A iniciar |
+| ✅ | Implantação          | Configuração inicial do Sieg Iris         | Sieg              | ✅ 25/05/2025|
 | ⬜ | Testes práticos      | Avaliação com clientes reais              | Equipe Interna    | 🔲 Planejado |
 | ⬜ | Análise de resultados| Decisão sobre contratação                 | Equipe de Projetos| 🔲 Planejado |
 
